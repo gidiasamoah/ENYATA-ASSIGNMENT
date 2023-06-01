@@ -1,0 +1,24 @@
+.container{
+    display: flex
+}
+
+.box3{
+width: 350px;
+height: 620px;
+background: dodgerblue;
+border: 1px solid #000000; 
+}
+
+.box1{
+width: 275px;
+height: 240px;
+background: tomato;
+border: 1px solid #ffffff;
+}
+
+.box2{
+width: 275px;
+height: 240px;
+background: #8F00FF;
+border: 1px solid #ffffff;
+}
